@@ -10,4 +10,4 @@ O algoritmo a seguir consiste no estudo de uma base de dados presente no kaggle 
 - seaborn
 - matplotlib.pyplot
 
-Inicialmente foi realizado o tratamento e padronização dos dados para melhorar as análises e então treinamos o algoritmo para prever o valor de um veículo, presente nos dados, de acordo com os parâmetros passados pelo usuário.
+Inicialmente foi realizado o tratamento e padronização dos dados para melhorar as análises e então treinamos o algoritmo utilizando o método de regressão linear para prever o valor de um veículo, presente nos dados, de acordo com os parâmetros passados pelo usuário.
