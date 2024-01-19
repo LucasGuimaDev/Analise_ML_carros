@@ -1,0 +1,30 @@
+Abaixo segue os valores que podem ser usados para teste no algoritmo:
+
+COR EXTERIOR:
+    black
+    blue
+    brown
+    gold
+    gray
+    green
+    orange
+    purple
+    red
+    silver
+    tan
+    unknown
+    white
+    yellow
+
+COR INTERIOR:
+    beige
+    black
+    blue
+    brown
+    gray
+    green
+    orange
+    red
+    unknown
+    white
+    yellow

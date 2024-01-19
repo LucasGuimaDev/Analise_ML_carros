@@ -1,0 +1,356 @@
+Abaixo segue os valores que podem ser usados para teste no algoritmo:
+
+MONTADORAS:
+    acura
+        ilx
+        integra
+        mdx
+        rdx
+        tlx 
+    alfa_romeo
+        giulia
+        stelvio
+    aston_martin
+        db9
+        vantage
+    audi
+        a3
+        a4
+        a5
+        a6
+        a7
+        a8
+        allroad
+        q3
+        q5
+        q7
+        q8
+        r8
+        rs 5
+        rs 6 avant
+        s3
+        s7
+        tts
+    bentley
+        flying spur
+    bmw
+        2 series
+        3 series
+        4 series
+        5 series
+        6 series
+        7 series
+        i3
+        m5
+        m6
+        x1
+        x3
+        x4 m
+        x5
+        x6
+        x7
+        z3
+    buick
+        cascada
+        enclave
+        encore
+        encore gx
+    cadillac
+        ats-v
+        ct4
+        cts
+        escalade
+        xt4
+        xt5
+        xt6
+    chevrolet
+        blazer
+        camaro
+        colorado
+        corvette
+        cruze
+        cruze limited
+        equinox
+        express cargo van
+        impala
+        impala limited
+        malibu
+        monte carlo
+        silverado 1500
+        silverado 1500 ltd
+        silverado 2500
+        spark
+        suburban
+        tahoe
+        trailblazer
+        traverse
+        trax
+        volt
+    chrysler
+        200
+        300
+        pacifica
+        town & country
+    dodge
+        challenger
+        charger
+        durango
+        grand caravan
+        journey
+        ram 1500
+    fiat
+        124 spider
+        500
+    ford
+        bronco
+        bronco sport
+        econoline cargo van
+        ecosport
+        edge
+        escape
+        expedition
+        explorer
+        explorer sport trac
+        f-150
+        fiesta
+        focus
+        fusion
+        mustang
+        ranger
+        super duty f-250
+        super duty f-350
+        super duty f-550 chassis cab
+        taurus
+        thunderbird
+        transit cargo van
+        transit connect van
+        transit passenger wagon
+    genesis
+        g70
+        g80
+    gmc
+        acadia
+        canyon
+        sierra 1500
+        terrain
+        yukon
+    honda
+        accord
+        civic
+        crosstour
+        cr-v
+        cr-z
+        fit
+        hr-v
+        odyssey
+        passport
+        pilot
+        s2000
+    hyundai
+        accent
+        elantra
+        genesis
+        kona
+        nexo
+        palisade
+        santa fe
+        santa fe sport
+        sonata
+        tucson
+    infiniti
+        q50
+        q60
+        q70
+        qx50
+        qx55
+        qx60
+    jaguar
+        e-pace
+        f-pace
+        xf
+        xj
+    jeep
+        cherokee
+        compass
+        gladiator
+        grand cherokee
+        grand cherokee wk
+        patriot
+        wrangler
+    karma
+        revero gt
+    kia
+        forte
+        k5
+        optima
+        rio
+        sedona
+        seltos
+        sorento
+        soul
+        sportage
+        telluride
+    land_rover
+        defender
+        discovery
+        lr4
+        range rover
+        range rover evoque
+        range rover sport
+        range rover velar
+    land_rovver
+        discovery sport
+    lexus
+        ct
+        es
+        gx
+        is
+        ls
+        lx
+        nx
+        rc
+        rx
+        ux
+    lincoln
+        mkc
+        mkx
+        nautilus
+    maserati
+        ghibli
+        granturismo
+        levante
+        quattroporte
+    mazda
+        cx-3
+        cx-30
+        cx-5
+        cx-9
+        cx-90
+        mazda3
+        mazda6
+    mclaren
+        720s
+    mercedes-benz
+        a-class
+        c-class
+        cl
+        cla
+        clk
+        cls
+        e-class
+        g-class
+        gl
+        gla
+        glb
+        glc
+        gle
+        glk
+        gls
+        m-class
+        metris cargo van
+        r-class
+        s-class
+        sl
+        slc
+        slk
+        sprinter passenger van
+    mini
+        clubman
+        countryman
+        hardtop
+    mitsubishi
+        outlander
+        outlander sport
+    nissan
+        altima
+        armada
+        frontier
+        kicks
+        maxima
+        murano
+        nv200 compact cargo
+        pathfinder
+        quest
+        rogue
+        rogue sport
+        sentra
+        titan
+        versa
+    pontiac
+        solstice
+    porsche
+        718 cayman
+        911
+        boxster
+        cayenne
+        cayman
+        macan
+    ram
+        1500
+        1500 classic
+        2500
+        promaster cargo van
+        promaster city cargo van
+    rolls-royce
+        dawn
+    saturn
+        aura
+    scion
+        fr-s
+        tc
+        xb
+    subaru
+        ascent
+        b9 tribeca
+        brz
+        crosstrek
+        forester
+        impreza
+        legacy
+        outback
+        wrx
+    toyota
+        4runner
+        avalon
+        camry
+        c-hr
+        corolla
+        corolla cross
+        corolla hatchback
+        gr corolla
+        gr supra
+        highlander
+        mirai
+        prius
+        prius c
+        prius prime
+        prius v
+        rav4
+        rav4 prime
+        sienna
+        tacoma
+        tundra
+        venza
+        yaris ia
+    volkswagen
+        atlas
+        atlas cross sport
+        beetle
+        cc
+        golf
+        golf alltrack
+        golf gti
+        jetta
+        passat
+        routan
+        taos
+        tiguan
+    volvo:
+    s60
+    s80
+    s90
+    v60
+    xc40
+    xc60
+    xc90
+
